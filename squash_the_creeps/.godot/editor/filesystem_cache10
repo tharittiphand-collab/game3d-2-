@@ -1,9 +1,12 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1757819153
-export_presets.cfg::TextFile/TextFile::-1::1757819153::0::1::::<><><>0<>0<><>::
+::res://::1757819784
+docs.apple-touch-icon.png::CompressedTexture2D/CompressedTexture2D::5752943114681614141::1757819379::1757819386::1::::<><><>0<>0<>28d3eb4609e2cdbf834afb10fef05f0b<>res://.godot/imported/docs.apple-touch-icon.png-4eb4f591a366f2f75f46352482e39d51.ctex::
+docs.icon.png::CompressedTexture2D/CompressedTexture2D::8571879335704262414::1757819379::1757819386::1::::<><><>0<>0<>7b4bfb00d7ebe551c21b0ef6972bdde5<>res://.godot/imported/docs.icon.png-821acb2f934e7a0db9ed4f23408e1503.ctex::
+docs.png::CompressedTexture2D/CompressedTexture2D::7481743081175460009::1757819379::1757819386::1::::<><><>0<>0<>8e6c7d46c8edf2323efa0a2ad4d3da63<>res://.godot/imported/docs.png-8e027aebf604656c0fb193ddfa575cd1.ctex::
+export_presets.cfg::TextFile/TextFile::-1::1757819379::0::1::::<><><>0<>0<><>::
 icon.webp::CompressedTexture2D/CompressedTexture2D::27118964165343846::1757817944::1757817944::1::::<><><>0<>0<>2765b228073266418cb0e013965e5088<>res://.godot/imported/icon.webp-e94f9a68b0f625a567a797079e4d325f.ctex::
 Main.gd::GDScript/GDScript::8123949213996832648::1757817944::0::1::::<>Node<><>0<>0<><>::
-Main.tscn::PackedScene::1946344858681233962::1757818058::0::1::::<><><>0<>0<><>::uid://dn0kiywu3mkq7::::res://Main.gd<>uid://dp478jyugrn7o::::res://Player.tscn<>uid://ha0ar5s2c3m4::::res://Mob.tscn<>uid://ballpg2p7gvi8::::res://art/Base.glb<>uid://cqquurjk1i7yw::::res://ui_theme.tres<>uid://ofhvwth8plpb::::res://ScoreLabel.gd<>uid://cptco315v5wq::::res://art/Generator.glb<>uid://buhub5qtd5w8s::::res://art/Wireless Machine.glb
+Main.tscn::PackedScene/PackedScene::1946344858681233962::1757818058::0::1::::<><><>0<>0<><>::uid://dn0kiywu3mkq7::::res://Main.gd<>uid://dp478jyugrn7o::::res://Player.tscn<>uid://ha0ar5s2c3m4::::res://Mob.tscn<>uid://ballpg2p7gvi8::::res://art/Base.glb<>uid://cqquurjk1i7yw::::res://ui_theme.tres<>uid://ofhvwth8plpb::::res://ScoreLabel.gd<>uid://cptco315v5wq::::res://art/Generator.glb<>uid://buhub5qtd5w8s::::res://art/Wireless Machine.glb
 Mob.gd::GDScript/GDScript::7291350454852087858::1757817944::0::1::::<>CharacterBody3D<><>0<>0<><>::
 Mob.tscn::PackedScene/PackedScene::492840770380503333::1757817944::0::1::::<><><>0<>0<><>::uid://db48qhcxd4usg::::res://Mob.gd<>uid://bicorb7we351t::::res://art/mob.glb<>uid://bdvdoqb0pjd35::::res://art/Robot Enemy.glb
 MusicPlayer.tscn::PackedScene/PackedScene::716687642126613565::1757817944::0::1::::<><><>0<>0<><>::uid://cc0pp6vt7jymp::::res://art/Spiderbait - Black Betty (Official Audio) 4.ogg
@@ -29,13 +32,7 @@ Robot Enemy.glb::PackedScene/PackedScene::2640547142610116986::1757817945::17578
 Robot.glb::PackedScene/PackedScene::6929723341231731183::1757817945::1757817945::1::::<><><>0<>0<>4d9d94ca0b53c1f997c7794d7ef24797<>res://.godot/imported/Robot.glb-522b7bf3dc8befe52db7764aa24cf851.scn::
 Spiderbait - Black Betty (Official Audio) 4.ogg::AudioStreamOggVorbis/AudioStreamOggVorbis::4965767701884996591::1757817945::1757817945::1::::<><><>0<>0<>44241200ef5d059361a50a6a72e6d059<>res://.godot/imported/Spiderbait - Black Betty (Official Audio) 4.ogg-c2ddf37c755b63dbdcc1aed886acd343.oggvorbisstr::
 Wireless Machine.glb::PackedScene/PackedScene::3805865927667264076::1757817945::1757817945::1::::<><><>0<>0<>fb2711563cd1970f850b44880d37d7d1<>res://.godot/imported/Wireless Machine.glb-054bbbd810a7d2a5e6f8e7dd83b0a100.scn::
-::res://docs/::1757819152
-docs.apple-touch-icon.png::CompressedTexture2D::7933959463662094737::1757819152::1757819158::1::::<><><>0<>0<>45f56ec45515c42ca7992176ce7e3945<>res://.godot/imported/docs.apple-touch-icon.png-2667a091c642840e2508d8bbe9894c26.ctex::
-docs.icon.png::CompressedTexture2D::462809481809897210::1757819152::1757819158::1::::<><><>0<>0<>709e1544d827d3398370b9c4a644607b<>res://.godot/imported/docs.icon.png-9c6a5594239ca3f10bd7a4bdb62ff87a.ctex::
-docs.png::CompressedTexture2D::6713740263683509153::1757819152::1757819158::1::::<><><>0<>0<>0ec592c63f46568416825311d0de0dfa<>res://.godot/imported/docs.png-aa668e31127ed1b8f67fddc4d6a168c8.ctex::
-index.apple-touch-icon.png::CompressedTexture2D/CompressedTexture2D::1197384299268791031::1757817945::1757817945::1::::<><><>0<>0<>6f5b37522b2cd089d263525d4c99d6a7<>res://.godot/imported/index.apple-touch-icon.png-b21a756d869f84af832970a74d8371bc.ctex::
-index.icon.png::CompressedTexture2D/CompressedTexture2D::1169910971507090208::1757817945::1757817945::1::::<><><>0<>0<>0486f001c364315360a1ce862d04902b<>res://.godot/imported/index.icon.png-b92c9a802ad4b78e247784454a6b506f.ctex::
-index.png::CompressedTexture2D/CompressedTexture2D::5228612659056740348::1757817945::1757817945::1::::<><><>0<>0<>a5004a4b89112eb22494c710ac730ece<>res://.godot/imported/index.png-0c78d14d192abe5f22f8c25928ca1ab8.ctex::
+::res://docs/::1757819655
 ::res://fonts/::1757817946
 LICENSE.txt::TextFile/TextFile::-1::1757817946::0::1::::<><><>0<>0<><>::
 Montserrat-Medium.ttf::FontFile/FontFile::6505293508080888906::1757817946::1757817946::1::::<><><>0<>0<>07233739ee8ed56ec1cb0f04a4ff2983<>res://.godot/imported/Montserrat-Medium.ttf-e832861e4ad4110e172112dc430c04b0.fontdata::
