@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://khf0gkxrnylp"]
+
+[ext_resource type="AudioStream" uid="uid://cc0pp6vt7jymp" path="res://art/Spiderbait - Black Betty (Official Audio) 4.ogg" id="1_1a72i"]
+
+[node name="MusicPlayer" type="AudioStreamPlayer"]
+stream = ExtResource("1_1a72i")
+volume_db = -25.543
+autoplay = true

@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://dekoervlwwlxs"]
+
+[ext_resource type="PackedScene" uid="uid://c5y2sb23ffayh" path="res://art/Robot.glb" id="1_itajj"]
+
+[node name="Root Scene" instance=ExtResource("1_itajj")]
+
+[node name="Cube" parent="RootNode" index="0"]
+transform = Transform3D(9.46814e-06, 238.274, 5.64345e-13, -4.73407e-06, 2.11629e-13, 317.698, 158.849, -1.42022e-05, 9.46814e-06, 0, 4, 0)
